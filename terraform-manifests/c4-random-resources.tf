@@ -5,3 +5,4 @@ resource "random_string" "myrandom" {
   special = false
   numeric = false   
 }
+ 
